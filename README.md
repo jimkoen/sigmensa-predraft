@@ -1,3 +1,11 @@
+# Project for discussing the sigmensa conference
+
+Idk why I created an Angular App, was not thinking straight. Thought I'd add some complex stuff, but we're staying with HTML for now I guess.
+If you want to add any thoughts and notes, you need to edit
+src/app/components/pages/info/info.html (sorry for the long pathname, i really shouldnt have used angular)
+
+Any thoughts and notes are greatly appreciated and accepted via a PR (for now), though please add them in the spirit of the project!
+
 # SigmensaPredraft
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.3.
